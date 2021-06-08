@@ -9,7 +9,7 @@ Online Education in the pandemic hasn’t been equally accessible across the soc
 Morton scanning of raster data is one of the many methods under Direct raaster coding.
 Direct encoding is to treat raster data as a data matrix and record the code row by row (or column by column). In the encoding schema the image is divided into blocks which are traversed and further subdivided using this method.
 
-##Encoding scheme:
+## Encoding scheme:
 First, we divide the image blocks of defined block size which are to be encoded 
 The block encoding only saves information for all the black sub divisions in the image. :
 If block is white -> return nothing
